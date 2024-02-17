@@ -1,6 +1,3 @@
---WARNING: Mesoud's code
-
--- Create database
 DROP DATABASE IF EXISTS hbtn_test_db_9;
 CREATE DATABASE IF NOT EXISTS hbtn_test_db_9;
 USE hbtn_test_db_9;
